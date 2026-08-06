@@ -2,9 +2,9 @@
 
 # 👋 Hi there, I'm Nensi Batra
 
-### 🚀 Software Operations & Data Automation Engineer | AI & Computer Vision Specialist
+### 🚀 Graduate Trainee Engineer @ Utopia Industries | Software Operations & Data Automation Specialist | AI & Computer Vision Expert
 
-<img src="image_0.png" width="250" alt="Nensi Batra Graduation" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px;">
+<img src="https://raw.githubusercontent.com/Nensibatra1122/Nensibatra1122/main/profile.jpeg" width="250" alt="Nensi Batra Graduation" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px;">
 
 <br><br>
 
@@ -18,8 +18,8 @@
 ## 💼 Professional Summary
 
 * **🎓 Education:** Bachelor of Engineering in Computer Information & Systems Engineering from NED University of Engineering & Technology (Class of 2025).
-* **🏢 Current Role:** Graduate Trainee Engineer specializing in software operations, automated monitoring pipelines, and processing high-dimensional industrial telemetry data streams.
-* **🧠 Core Expertise:** Artificial Intelligence, Machine Learning, Computer Vision, Backend Architecture, and Data Automation Workflows.
+* **🏢 Current Role:** Graduate Trainee Engineer at Utopia Industries (under the Pakistan Engineering Council Graduate Engineer Trainee program), architecting automated monitoring systems and handling high-dimensional industrial telemetry log data streams.
+* **🧠 Core Expertise:** Artificial Intelligence, Machine Learning, Computer Vision, Backend Architecture, Data Science, and Complete Software Operations Workflows.
 * **💡 Professional Objective:** Leveraging advanced automation, intelligent algorithms, and scalable software systems to solve complex industrial and real-world operational challenges.
 
 ---
@@ -29,36 +29,39 @@
 | Project | Description | Core Tech Stack |
 | :--- | :--- | :--- |
 | **📦 Enterprise Inventory Pro System** | A robust web-based enterprise inventory platform featuring role-based access controls, automated audit logging, and seamless inventory movement tracking. | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **🏢 Incubation & Startup Management System** | A comprehensive system designed to track startup ecosystems, featuring automated CRUD operations, system activity audit logs, and cloud infrastructure integration. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-000000?style=flat-square&logo=cloud&logoColor=white) |
-| **🤖 CLAIR – Cleaning AI Robot** | An autonomous edge computing system leveraging computer vision frameworks and microcontrollers for real-time spatial boundary analysis and navigation. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white) |
-| **🌸 Flower Image Classification System** | Developed a machine learning classification pipeline with thorough data preprocessing, model training, and validation testing suites. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **🏢 Incubation & Startup Management System** | A comprehensive application featuring automated CRUD operations, system activity audit logs, and cloud infrastructure integration to manage startup ecosystems. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-000000?style=flat-square&logo=cloud&logoColor=white) |
+| **🤖 CLAIR – Cleaning AI Robot** | An autonomous edge computing system leveraging asynchronous Python scripts, computer vision frameworks, and microcontrollers for real-time spatial boundary analysis and navigation. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white) |
+| **🌸 Flower Image Classification System** | Developed a machine learning classification pipeline featuring thorough data preprocessing, model training, testing, and validation suites. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 
 ---
 
-## 💻 Technical Proficiencies
+## 💻 Complete Technical Proficiencies & Skills
 
-### 👩‍💻 Languages & Core
+### 👩‍💻 Programming Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 Artificial Intelligence & Data Science
+### 🤖 Artificial Intelligence, Machine Learning & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🌐 Web & Application Frameworks
+### 🌐 Backend Architecture & Web Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### ☁️ Tools, Platforms & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
