@@ -4,10 +4,6 @@
 
 ### 🚀 Graduate Trainee Engineer @ Utopia Industries | Software Operations & Data Automation Specialist | AI & Computer Vision Expert
 
-<img src="https://raw.githubusercontent.com/Nensibatra1122/Nensibatra1122/main/profile.jpeg" width="250" alt="Nensi Batra Graduation" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px;">
-
-<br><br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nensi-batra-385115251/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nensibatra1122@gmail.com)
 
