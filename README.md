@@ -67,24 +67,6 @@
 
 ---
 
-## 📈 GitHub Metrics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nensibatra1122&theme=tokyonight&hide_border=true" alt="Nensi's GitHub Stats" />
-  
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nensibatra1122&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nensibatra1122&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nensibatra1122&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
