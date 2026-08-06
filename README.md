@@ -69,16 +69,13 @@
 
 ## 📈 GitHub Metrics
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nensibatra1122&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nensi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nensibatra1122&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-  <br><br>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nensibatra1122&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nensi's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nensibatra1122&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nensibatra1122&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
-</div>
+</p>
 
 ---
 
