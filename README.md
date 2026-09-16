@@ -6,7 +6,7 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <img src="assets/hero.png" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=EC4899&background=0D0D0FFF&center=true&vCenter=true&width=900&height=60&lines=AI+%2F+ML+Engineer;Computer+Vision+%7C+Deep+Learning;Data+Automation+%26+Odoo+Development;Full-Stack+Development;Let's+build+something+intelligent." width="100%" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=EC4899&background=0D0D0FFF&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Development;AI+%2F+ML+Engineer;Computer+Vision+%7C+Deep+Learning;Data+Automation+%26+Odoo+Development;Let's+build+something+intelligent." width="100%" alt="Typing SVG"/>
 
 <br/>
 
