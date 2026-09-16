@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8B5CF6,100:EC4899&section=header&text=Nensi%20Batra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builds%20intelligent%20systems.&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0F,50:1A1A2E,100:0D0D0F&section=header&text=Nensi%20Batra&fontSize=50&fontColor=EC4899&animation=fadeIn&fontAlignY=38&desc=Builds%20intelligent%20systems.&descAlignY=58&descSize=20&descColor=8B5CF6" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=EC4899&background=0D0D0FFF&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Computer+Vision+Specialist;Data+Automation+Specialist;Software+Operations+Expert" alt="Typing SVG"/>
 
@@ -175,20 +175,7 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nensibatra1122&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=EC4899&icon_color=8B5CF6&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=nensibatra1122&hide_border=true&background=0D0D0F&stroke=EC4899&ring=8B5CF6&fire=EC4899&currStreakLabel=ffffff&sideLabels=EC4899&dates=8B5CF6&sideNums=ffffff&currStreakNum=ffffff"/>
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nensibatra1122&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0F&title_color=EC4899&text_color=ffffff"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nensibatra1122&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nensibatra1122&bg_color=0D0D0F&color=EC4899&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://raw.githubusercontent.com/Nensibatra1122/Nensibatra1122/main/metrics.svg" width="100%" alt="GitHub metrics"/>
 
 <br/><br/>
 
@@ -219,6 +206,6 @@ Open to full-stack, AI/ML, and management trainee opportunities — Karachi & re
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EC4899,100:8B5CF6&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D0D0F,50:1A1A2E,100:0D0D0F&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
