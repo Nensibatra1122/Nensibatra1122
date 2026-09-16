@@ -1,7 +1,6 @@
-<h1 align="center">Nensi Batra</h1>
-<p align="center"><i>Builds intelligent systems.</i></p>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0F172A&text=Nensi%20Batra&fontColor=3B82F6&fontSize=42&fontAlignY=40&desc=Builds%20intelligent%20systems.&descAlignY=62&descColor=94A3B8" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=3B82F6&background=00000000&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Computer+Vision+Specialist;Data+Automation+Specialist;Software+Operations+Expert" alt="Typing SVG"/>
 
@@ -9,22 +8,17 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/></a>
+<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=3B82F6"/></a>
+<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=3B82F6"/></a>
+<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=netlify&logoColor=3B82F6"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nensibatra1122&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views"/>
-<a href="https://github.com/Nensibatra1122?tab=followers"><img src="https://img.shields.io/github/followers/Nensibatra1122?label=Followers&style=for-the-badge&color=3B82F6"/></a>
+<img src="https://komarev.com/ghpvc/?username=nensibatra1122&label=Profile+Views&color=0F172A&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<a href="https://github.com/Nensibatra1122?tab=followers"><img src="https://img.shields.io/github/followers/Nensibatra1122?label=Followers&style=for-the-badge&color=0F172A&labelColor=0F172A"/></a>
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 </div>
 
 <br/>
@@ -47,11 +41,14 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<br/>
+
 ## 💼 Where I've Worked
 
 <table>
-<tr>
-<td>
+<tr><td>
 
 **🟢 Apr 2026 — Present**
 ### Graduate Trainee Engineer <sub>(PEC GET Program)</sub>
@@ -62,10 +59,8 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 - Replaced legacy QR code generation with secure, in-memory Base64 encoding
 - Designed data automation workflows and analyzed backend performance metrics
 
-</td>
-</tr>
-<tr>
-<td>
+</td></tr>
+<tr><td>
 
 **🟣 Mar 2026 — Apr 2026** · 1 month
 ### Odoo & Python Development Intern
@@ -74,10 +69,8 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 - Customized Odoo ERP models and modules to match business-specific requirements
 - Worked across both technical (Python/model layer) and functional (process configuration) sides of Odoo
 
-</td>
-</tr>
-<tr>
-<td>
+</td></tr>
+<tr><td>
 
 **⚪ Sep 2024 — Oct 2024**
 ### Machine Learning Intern
@@ -85,8 +78,7 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 - Trained and evaluated predictive ML models for concrete strength prediction
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <br/>
@@ -98,32 +90,31 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 <td valign="top" width="25%">
 
 **Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,js" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,js&theme=dark" />
 
 </td>
 <td valign="top" width="25%">
 
 **AI / ML / Computer Vision**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas&theme=dark" />
 
 </td>
 <td valign="top" width="25%">
 
 **Backend & Web**
-
-<img src="https://skillicons.dev/icons?i=spring,react,fastapi,flask,nodejs" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=spring,react,fastapi,flask,nodejs&theme=dark" />
 
 </td>
 <td valign="top" width="25%">
 
 **Security & ERP**
-
-<img src="https://skillicons.dev/icons?i=" />
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-4B0082?style=flat-square)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+<br/><br/>
+![Spring Security](https://img.shields.io/badge/Spring_Security-0F172A?style=flat-square&logo=springsecurity&logoColor=3B82F6)
+![RBAC](https://img.shields.io/badge/RBAC-0F172A?style=flat-square&logo=shieldsdotio&logoColor=3B82F6)
+![Odoo](https://img.shields.io/badge/Odoo-0F172A?style=flat-square&logo=odoo&logoColor=3B82F6)
 
 </td>
 </tr>
@@ -131,20 +122,20 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 <td valign="top">
 
 **Data & Automation**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+<br/><br/>
+![Power BI](https://img.shields.io/badge/Power_BI-0F172A?style=flat-square&logo=powerbi&logoColor=3B82F6)
+![n8n](https://img.shields.io/badge/n8n-0F172A?style=flat-square&logo=n8n&logoColor=3B82F6)
+![Make](https://img.shields.io/badge/Make.com-0F172A?style=flat-square&logo=make&logoColor=3B82F6)
 
 </td>
 <td valign="top">
 
 **Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,firebase" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase&theme=dark" />
 
 </td>
-<td valign="top" colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
@@ -163,20 +154,30 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 <br/>
 
+## 📂 Other Repositories
+
+| Repo | Description | Language |
+|---|---|---|
+| [`DATA-SCIENCE`](https://github.com/Nensibatra1122/DATA-SCIENCE) | Data science notebooks & experiments | ![Jupyter](https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=3B82F6) |
+| [`CodSoft`](https://github.com/Nensibatra1122/CodSoft) | Web development internship tasks | ![CSS](https://img.shields.io/badge/CSS-0F172A?style=flat-square&logo=css3&logoColor=3B82F6) |
+| [`landingpage-codsoft`](https://github.com/Nensibatra1122/landingpage-codsoft) | Landing page built during web internship | ![HTML](https://img.shields.io/badge/HTML-0F172A?style=flat-square&logo=html5&logoColor=3B82F6) |
+| [`Calculator`](https://github.com/Nensibatra1122/Calculator) | JavaScript calculator app | ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=3B82F6) |
+| [`coursera-test`](https://github.com/Nensibatra1122/coursera-test) | Coursera test repository | ![CSS](https://img.shields.io/badge/CSS-0F172A?style=flat-square&logo=css3&logoColor=3B82F6) |
+| [`repo`](https://github.com/Nensibatra1122/repo) | General-purpose repository | ![Repo](https://img.shields.io/badge/Repository-0F172A?style=flat-square&logo=github&logoColor=3B82F6) |
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nensibatra1122/Nensibatra1122/main/metrics.svg" width="100%" alt="GitHub metrics"/>
+<img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=Nensibatra1122&show_icons=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&border_radius=10" />
+<img height="170" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nensibatra1122&hide_border=true&background=0F172A&stroke=0F172A&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=94A3B8&currStreakNum=ffffff&sideNums=ffffff&dates=475569&border_radius=10" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nensibatra1122&show_icons=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&border_radius=10" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nensibatra1122&hide_border=true&background=0F172A&stroke=0F172A&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=94A3B8&currStreakNum=ffffff&sideNums=ffffff&dates=475569&border_radius=10" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensibatra1122&layout=compact&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=94A3B8&border_radius=10" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensibatra1122&layout=compact&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=94A3B8&border_radius=10" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Nensibatra1122&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 <br/><br/>
 
@@ -205,8 +206,6 @@ Open to full-stack, AI/ML, and management trainee opportunities — Karachi & re
 
 <sub>Designed & built by <b>Nensi Batra</b> · Karachi, Pakistan · © 2026</sub>
 
-<br/><br/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0F172A&section=footer" width="100%"/>
-
-</div>
