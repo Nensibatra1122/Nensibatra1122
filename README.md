@@ -1,104 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:7C3AED,100:EC4899&height=200&section=header&text=Nensi%20Batra&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Computer%20Systems%20Engineering%20Graduate&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0F,50:0D0D0F,100:0D0D0F&height=10&section=header" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=900&size=22&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=200&lines=NB." alt="NB." />
 
 <br/>
 
 🟢 **AVAILABLE FOR NEW OPPORTUNITIES**
 
+<h1>
+<span>Nensi Batra</span><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=900&size=42&duration=1&pause=100000&color=EC4899&background=00000000&center=true&vCenter=true&width=700&height=60&lines=builds+intelligent+systems." alt="builds intelligent systems." />
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=9CA3AF&background=00000000&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Computer+Vision;Data+Automation;Full-Stack+Development" alt="Typing SVG" />
+
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=650&lines=Graduate+Trainee+Engineer+%40+Utopia+Industries;Full-Stack+Development+%7C+REST+APIs+%7C+RBAC;Computer+Vision+%26+Machine+Learning;Odoo+ERP+%7C+Workflow+Automation" alt="Typing SVG" />
+<p width="600">
+Computer Systems Engineer from Karachi, Pakistan crafting production-ready AI, computer vision, and full-stack solutions — currently architecting secure, automated systems as a Graduate Trainee Engineer at Utopia Industries.
+</p>
+
+<br/>
+
+<a href="#-key-projects"><img src="https://img.shields.io/badge/View_Projects_→-A855F7?style=for-the-badge&logoColor=white"/></a>
+<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Get_in_Touch-1a1a1a?style=for-the-badge&logoColor=white"/></a>
+<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/🔗_Portfolio-1a1a1a?style=for-the-badge&logoColor=white"/></a>
 
 <br/><br/>
 
 <a href="#-about">About</a> •
-<a href="#-experience">Experience</a> •
+<a href="#-where-ive-worked">Experience</a> •
 <a href="#-skills">Skills</a> •
 <a href="#-key-projects">Projects</a> •
-<a href="#-contact">Contact</a>
+<a href="#-lets-connect">Contact</a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/engr-nensi-batra-3851/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nensibatra1122&label=Profile%20Views&color=EC4899&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=nensibatra1122&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="profile views"/>
 
 </div>
 
-<br/>
+<br/><br/>
 
-## 👋 About
+## 👤 About
 
-Computer Systems Engineering graduate from **NED University of Engineering & Technology** (2021 – 2025), with hands-on full-stack development and technical support experience. Currently building a **React + Spring Boot** platform at **Utopia Industries**, alongside experience in backend services, REST APIs, and SQL databases (MySQL, SQL Server). Well-versed in software development, testing, automation, and operational support with a strong problem-solving mindset.
+**Who I Am**
+
+I'm a Computer Systems Engineering graduate from NED University of Engineering & Technology, currently working as a Graduate Trainee Engineer at Utopia Industries under the Pakistan Engineering Council's Graduate Engineer Trainee program.
+
+My work spans full-stack development, computer vision, predictive machine learning, and enforcing enterprise-grade security across production systems — from architecting React + Spring Boot platforms to standardizing role-based access control across a dozen PDF generation modules.
+
+Outside client work, I built **CLAIR**, an autonomous edge-computing robot, as my final year project — combining Python, OpenCV, and microcontrollers for real-time navigation.
 
 <div align="center">
 
-| 🎓 2021 – 2025 | 🏢 3 Roles | 🔐 12+ | 🛠️ 5+ |
+| 3+ | 12+ | 2025 | 5+ |
 |:---:|:---:|:---:|:---:|
-| NED University Graduate | Internships & Full-Time | PDF Modules Secured with RBAC | Core Tech Domains |
+| Full-stack & ERP projects delivered | PDF modules secured with RBAC | NED University graduate | Core tech domains mastered |
 
 </div>
 
 <br/>
 
-## 💼 Experience
+## 🧭 Where I've Worked
 
-**Graduate Trainee Engineer (PEC GET Program)** — *April 2026 – Present*
-**Utopia Industries, Karachi**
-- Full-stack developer on Utopia's Incubator Ecosystem Platform and Enterprise Inventory Pro System, building REST APIs, database schemas, and UI features using React, Spring Boot, JPA, and MySQL.
-- Enforced system-wide role-based access control (RBAC) for QR code rendering across 12+ PDF generation modules (Dispatch Requisition, Gate Pass, Purchase Order, GRN, and others), integrating `ROLE_ADMIN_QR_VIEW` authority checks via Spring Security's `SecurityContextHolder`.
-- Replaced legacy, file-system-dependent QR code generation with secure, in-memory Base64 encoding (`BarcodeUtils`), standardizing image rendering across all PDF controllers.
-- Designed and documented scalable data automation workflows to streamline data pipelines and cross-functional reporting.
+```
+APRIL 2026 — PRESENT
+Graduate Trainee Engineer (PEC GET Program)
+Utopia Industries, Karachi
+```
+- Full-stack contributor on the Incubator Ecosystem Platform & Enterprise Inventory Pro System (React, Spring Boot, JPA, MySQL).
+- Enforced system-wide role-based access control across 12+ PDF generation modules via Spring Security.
+- Replaced legacy QR code generation with secure, in-memory Base64 encoding.
+- Designed data automation workflows and analyzed backend performance metrics.
 
-**Odoo & Python Development Intern** — *March 2026 – April 2026 (1 month)*
-**Odolution Pvt. Limited, Karachi**
-- Customized Odoo ERP models and modules using Python to align the platform with business-specific requirements.
-- Worked across both the technical (Python/model layer) and functional (business process configuration) sides of Odoo.
+```
+MAR 2026 — APR 2026 · 1 MONTH
+Odoo & Python Development Intern
+Odolution Pvt. Limited, Karachi
+```
+- Customized Odoo ERP models and modules to match business-specific requirements.
+- Worked across both technical (Python/model layer) and functional (process configuration) sides of Odoo.
 
-**Machine Learning Intern** — *September 2024 – October 2024*
-**NCAI NCL**
-- Researched, trained, and evaluated predictive machine learning models, conducting rigorous data analysis and feature engineering.
-- Developed and optimized data processing pipelines to improve system accuracy and performance.
+```
+SEP 2024 — OCT 2024
+Machine Learning Intern
+NCAI NCL
+```
+- Trained and evaluated predictive ML models for concrete strength prediction.
 
 <br/>
 
-## 🧠 Skills
+## 🛠 Skills
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,java,python,mysql&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,mysql&theme=dark" />
 <br/><br/>
-
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
 <br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=spring,react,fastapi,flask,nodejs&theme=dark" />
 <br/><br/>
-
-**Security**
-<br/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/RBAC-4B0082?style=for-the-badge"/>
-
-<br/><br/>
-
-**Tools & Testing**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,maven&theme=dark" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase&theme=dark" />
 
 </div>
 
@@ -108,46 +114,60 @@ Computer Systems Engineering graduate from **NED University of Engineering & Tec
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🤖 Autonomous Computer-Vision Robot (CLAIR)
-*Final Year Project*
+**🔒 QR Security & RBAC Standardization**
 
-Engineered an edge-based autonomous system using Python and OpenCV for real-time navigation, spatial mapping, and obstacle avoidance.
+Enforced system-wide role-based access, replacing file-system-dependent QR generation with secure, in-memory Base64 encoding across 12+ enterprise PDF controllers.
 
-`Python` `OpenCV`
+`Spring Security` `Java` `Spring Boot`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏢 Full-Stack Incubator Ecosystem Platform
-*Utopia Industries*
+**📄 Enterprise Inventory Pro System**
 
-Full-stack platform built with React and Spring Boot, with secure database schemas and real-time backend workflows.
+Full-stack enterprise inventory platform with role-based access, automated audit logging, and real-time inventory movement tracking.
 
-`React` `Spring Boot`
+`Spring Boot` `React` `MySQL`
+
+</td>
+<td width="33%" valign="top">
+
+**🏢 Incubation & Startup Management Platform**
+
+Comprehensive full-stack ecosystem platform with automated CRUD operations, audit logs, and cloud infrastructure integration.
+
+`Java` `Spring` `Cloud`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📦 Enterprise Inventory Pro System
-*Utopia Industries*
+**🤖 CLAIR — Autonomous Cleaning AI Robot**
 
-Enterprise-grade management system using Java, Spring Boot, JPA, and MySQL, with REST APIs and optimized queries.
+Final year project: an edge-computing autonomous robot using real-time computer vision for spatial mapping and obstacle avoidance.
 
-`Java` `Spring Boot` `JPA` `MySQL`
+`Python` `OpenCV` `ESP32`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔐 QR Code Security & RBAC Standardization
-*Uind Application — Utopia Industries*
+**🌸 Flower Image Classification System**
 
-System-wide RBAC and secure Base64 QR rendering standardized across 12+ PDF generation modules.
+End-to-end ML pipeline with rigorous data preprocessing, model training, testing, and validation for multi-class image classification.
 
-`Spring Security` `RBAC`
+`Python` `TensorFlow` `Scikit-Learn`
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ Odoo ERP Customization**
+
+Customized Odoo ERP models and modules for business-specific workflows, spanning both technical and functional configuration.
+
+`Odoo` `Python`
 
 </td>
 </tr>
@@ -155,28 +175,40 @@ System-wide RBAC and secure Base64 QR rendering standardized across 12+ PDF gene
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nensibatra1122&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=EC4899&icon_color=7C3AED&text_color=ffffff"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nensibatra1122&theme=radical&hide_border=true&background=0D0D0D&stroke=EC4899&ring=7C3AED&fire=EC4899&currStreakLabel=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nensibatra1122&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0F&title_color=EC4899&icon_color=A855F7&text_color=ffffff"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nensibatra1122&theme=radical&hide_border=true&background=0D0D0F&stroke=EC4899&ring=A855F7&fire=EC4899&currStreakLabel=ffffff"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nensibatra1122&theme=redical&bg_color=0D0D0F&color=EC4899&line=A855F7&point=ffffff&hide_border=true"/>
 
 </div>
 
 <br/>
 
-## 📬 Contact
+## 💬 Let's Connect
 
 <div align="center">
 
-Karachi, Pakistan &nbsp;|&nbsp; +92 318 3618419 &nbsp;|&nbsp; nensibatra1122@gmail.com
+### Let's build something intelligent.
 
-<a href="https://www.linkedin.com/in/engr-nensi-batra-3851/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+Open to full-stack, AI/ML, and management trainee opportunities — Karachi & remote.
+
+<br/>
+
+<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/nensibatra1122@gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/engr-nensi-batra-3851/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logoColor=white"/></a>
+
+<br/><br/>
+
+<sub>Designed & built by <b>Nensi Batra</b> · Karachi, Pakistan · © 2026</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:0D0D0D&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0F,50:0D0D0F,100:0D0D0F&height=10&section=footer" width="100%"/>
