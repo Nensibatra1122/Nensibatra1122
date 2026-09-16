@@ -1,22 +1,23 @@
+<h1 align="center">Nensi Batra</h1>
+<p align="center"><i>Builds intelligent systems.</i></p>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0F172A&section=header&text=Nensi%20Batra&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Builds%20intelligent%20systems.&descAlignY=68&descSize=20&descColor=3B82F6" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=3B82F6&background=0F172AFF&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Computer+Vision+Specialist;Data+Automation+Specialist;Software+Operations+Expert" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=3B82F6&background=00000000&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Computer+Vision+Specialist;Data+Automation+Specialist;Software+Operations+Expert" alt="Typing SVG"/>
 
 <sub>🟢 Available for new opportunities · Karachi, Pakistan &nbsp;|&nbsp; Graduate Trainee Engineer @ Utopia Industries</sub>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/></a>
-<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=3B82F6"/></a>
-<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=3B82F6"/></a>
-<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=netlify&logoColor=3B82F6"/></a>
+<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=nensibatra1122&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views"/>
-<a href="https://github.com/Nensibatra1122?tab=followers"><img src="https://img.shields.io/github/followers/Nensibatra1122?label=Followers&style=for-the-badge&color=3B82F6&labelColor=0F172A&logo=github"/></a>
+<a href="https://github.com/Nensibatra1122?tab=followers"><img src="https://img.shields.io/github/followers/Nensibatra1122?label=Followers&style=for-the-badge&color=3B82F6"/></a>
 
 </div>
 
@@ -98,43 +99,31 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3B82F6)
-![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=3B82F6)
-![C++](https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=3B82F6)
-![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=3B82F6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=3B82F6)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,js" />
 
 </td>
 <td valign="top" width="25%">
 
 **AI / ML / Computer Vision**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=flat-square&logo=tensorflow&logoColor=3B82F6)
-![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=3B82F6)
-![OpenCV](https://img.shields.io/badge/OpenCV-0F172A?style=flat-square&logo=opencv&logoColor=3B82F6)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0F172A?style=flat-square&logo=scikit-learn&logoColor=3B82F6)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=3B82F6)
-![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=3B82F6)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy" />
 
 </td>
 <td valign="top" width="25%">
 
 **Backend & Web**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=3B82F6)
-![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=3B82F6)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=3B82F6)
-![Flask](https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=3B82F6)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=3B82F6)
+<img src="https://skillicons.dev/icons?i=spring,react,fastapi,flask,nodejs" />
 
 </td>
 <td valign="top" width="25%">
 
 **Security & ERP**
 
-![Spring Security](https://img.shields.io/badge/Spring_Security-0F172A?style=flat-square&logo=springsecurity&logoColor=3B82F6)
-![RBAC](https://img.shields.io/badge/RBAC-0F172A?style=flat-square&logoColor=3B82F6)
-![Odoo](https://img.shields.io/badge/Odoo-0F172A?style=flat-square&logo=odoo&logoColor=3B82F6)
+<img src="https://skillicons.dev/icons?i=" />
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4B0082?style=flat-square)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 
 </td>
 </tr>
@@ -143,19 +132,16 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 **Data & Automation**
 
-![Power BI](https://img.shields.io/badge/Power_BI-0F172A?style=flat-square&logo=powerbi&logoColor=3B82F6)
-![n8n](https://img.shields.io/badge/n8n-0F172A?style=flat-square&logo=n8n&logoColor=3B82F6)
-![Make](https://img.shields.io/badge/Make.com-0F172A?style=flat-square&logo=make&logoColor=3B82F6)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
 
 </td>
 <td valign="top">
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=3B82F6)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=3B82F6)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=3B82F6)
-![Firebase](https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=3B82F6)
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase" />
 
 </td>
 <td valign="top" colspan="2"></td>
