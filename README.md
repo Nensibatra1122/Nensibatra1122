@@ -1,119 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:6A0DAD,100:D6249F&height=220&section=header&text=Nensi%20Batra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20Intelligent%20Systems&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:7C3AED,100:EC4899&height=200&section=header&text=Nensi%20Batra&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Computer%20Systems%20Engineering%20Graduate&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/nensi-batra-385115251/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=D6249F&center=true&vCenter=true&width=650&lines=Graduate+Trainee+Engineer+%40+Utopia+Industries;Software+Operations+%26+Data+Automation;AI+%2F+Computer+Vision+Engineer;Building+Secure%2C+Scalable+Systems" alt="Typing SVG" />
-</a>
+🟢 **AVAILABLE FOR NEW OPPORTUNITIES**
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=650&lines=Graduate+Trainee+Engineer+%40+Utopia+Industries;Full-Stack+Development+%7C+REST+APIs+%7C+RBAC;Computer+Vision+%26+Machine+Learning;Odoo+ERP+%7C+Workflow+Automation" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="#-about">About</a> •
+<a href="#-experience">Experience</a> •
+<a href="#-skills">Skills</a> •
+<a href="#-key-projects">Projects</a> •
+<a href="#-contact">Contact</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/engr-nensi-batra-3851/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nensibatra1122&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=nensibatra1122&label=Profile%20Views&color=EC4899&style=for-the-badge" alt="profile views"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:D6249F&height=3&width=100%"/>
+## 👋 About
 
-## 🚀 About Me
-
-```yaml
-name: "Nensi Batra"
-role: "Graduate Trainee Engineer @ Utopia Industries"
-education: "B.E. Computer Information & Systems Engineering — NED University (2025)"
-focus: ["Computer Vision", "AI/ML", "Backend Architecture", "Application Security (RBAC)", "ERP (Odoo)"]
-current_mission: >
-    Architecting automated monitoring systems, handling high-dimensional
-    industrial telemetry data streams, and enforcing enterprise-wide
-    role-based access control across PDF generation modules.
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:D6249F&height=3&width=100%"/>
-
-## 🧠 Core Expertise
+Computer Systems Engineering graduate from **NED University of Engineering & Technology** (2021 – 2025), with hands-on full-stack development and technical support experience. Currently building a **React + Spring Boot** platform at **Utopia Industries**, alongside experience in backend services, REST APIs, and SQL databases (MySQL, SQL Server). Well-versed in software development, testing, automation, and operational support with a strong problem-solving mindset.
 
 <div align="center">
 
-| 🔍 Domain | ⚙️ Focus |
-|:---|:---|
-| **Artificial Intelligence & ML** | Model training, validation & deployment pipelines |
-| **Computer Vision** | Real-time spatial analysis, edge-computing systems |
-| **Backend Architecture** | Spring Boot, FastAPI, secure REST APIs |
-| **Application Security** | Spring Security, RBAC standardization |
-| **ERP Development** | Odoo customization (Python + business logic) |
-| **Data Automation** | Telemetry pipelines, workflow orchestration |
+| 🎓 2021 – 2025 | 🏢 3 Roles | 🔐 12+ | 🛠️ 5+ |
+|:---:|:---:|:---:|:---:|
+| NED University Graduate | Internships & Full-Time | PDF Modules Secured with RBAC | Core Tech Domains |
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:D6249F&height=3&width=100%"/>
+## 💼 Experience
 
-## 🌌 Featured Projects
+**Graduate Trainee Engineer (PEC GET Program)** — *April 2026 – Present*
+**Utopia Industries, Karachi**
+- Full-stack developer on Utopia's Incubator Ecosystem Platform and Enterprise Inventory Pro System, building REST APIs, database schemas, and UI features using React, Spring Boot, JPA, and MySQL.
+- Enforced system-wide role-based access control (RBAC) for QR code rendering across 12+ PDF generation modules (Dispatch Requisition, Gate Pass, Purchase Order, GRN, and others), integrating `ROLE_ADMIN_QR_VIEW` authority checks via Spring Security's `SecurityContextHolder`.
+- Replaced legacy, file-system-dependent QR code generation with secure, in-memory Base64 encoding (`BarcodeUtils`), standardizing image rendering across all PDF controllers.
+- Designed and documented scalable data automation workflows to streamline data pipelines and cross-functional reporting.
+
+**Odoo & Python Development Intern** — *March 2026 – April 2026 (1 month)*
+**Odolution Pvt. Limited, Karachi**
+- Customized Odoo ERP models and modules using Python to align the platform with business-specific requirements.
+- Worked across both the technical (Python/model layer) and functional (business process configuration) sides of Odoo.
+
+**Machine Learning Intern** — *September 2024 – October 2024*
+**NCAI NCL**
+- Researched, trained, and evaluated predictive machine learning models, conducting rigorous data analysis and feature engineering.
+- Developed and optimized data processing pipelines to improve system accuracy and performance.
+
+<br/>
+
+## 🧠 Skills
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,java,python,mysql&theme=dark" />
+
+<br/><br/>
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql&theme=dark" />
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+
+<br/><br/>
+
+**Security**
+<br/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/RBAC-4B0082?style=for-the-badge"/>
+
+<br/><br/>
+
+**Tools & Testing**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,maven&theme=dark" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🚀 Key Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 QR Code Security & RBAC Standardization
-Enforced system-wide role-based access control and replaced legacy, file-system-dependent QR generation with secure, in-memory Base64 encoding across **12+ enterprise PDF modules** (Dispatch Requisition, Gate Pass, Purchase Order, GRN & more).
+### 🤖 Autonomous Computer-Vision Robot (CLAIR)
+*Final Year Project*
 
-`Java` `Spring Boot` `Spring Security`
+Engineered an edge-based autonomous system using Python and OpenCV for real-time navigation, spatial mapping, and obstacle avoidance.
+
+`Python` `OpenCV`
 
 </td>
+<td width="50%" valign="top">
+
+### 🏢 Full-Stack Incubator Ecosystem Platform
+*Utopia Industries*
+
+Full-stack platform built with React and Spring Boot, with secure database schemas and real-time backend workflows.
+
+`React` `Spring Boot`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📦 Enterprise Inventory Pro System
-A robust web-based enterprise inventory platform with role-based access controls, automated audit logging, and seamless inventory movement tracking.
+*Utopia Industries*
 
-`Spring Boot` `React` `MySQL`
+Enterprise-grade management system using Java, Spring Boot, JPA, and MySQL, with REST APIs and optimized queries.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Incubation & Startup Management System
-Comprehensive application featuring automated CRUD operations, activity audit logs, and cloud infrastructure integration to manage startup ecosystems.
-
-`Java` `Spring` `Cloud`
+`Java` `Spring Boot` `JPA` `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Odoo ERP Customization
-Customized Odoo ERP models and modules using Python, spanning both the technical (model layer) and functional (business process configuration) sides.
+### 🔐 QR Code Security & RBAC Standardization
+*Uind Application — Utopia Industries*
 
-`Python` `Odoo`
+System-wide RBAC and secure Base64 QR rendering standardized across 12+ PDF generation modules.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 CLAIR — Cleaning AI Robot
-Autonomous edge-computing system using asynchronous Python, computer vision frameworks, and microcontrollers for real-time spatial boundary analysis and navigation.
-
-`Python` `OpenCV` `ESP32`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌸 Flower Image Classification System
-ML classification pipeline featuring thorough data preprocessing, model training, testing, and validation suites.
-
-`Python` `Scikit-Learn` `TensorFlow`
+`Spring Security` `RBAC`
 
 </td>
 </tr>
@@ -121,85 +155,28 @@ ML classification pipeline featuring thorough data preprocessing, model training
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:D6249F&height=3&width=100%"/>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Programming Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&theme=dark" />
-
-<br/><br/>
-
-**AI, Machine Learning & Computer Vision**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
-
-<br/><br/>
-
-**Backend & Web Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,react,nodejs,html,css&theme=dark" />
-
-<br/><br/>
-
-**Tools, Platforms & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,firebase&theme=dark" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:D6249F&height=3&width=100%"/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nensibatra1122&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=D6249F&icon_color=8A2BE2&text_color=ffffff"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nensibatra1122&theme=radical&hide_border=true&background=0D0D0D&stroke=D6249F&ring=8A2BE2&fire=D6249F&currStreakLabel=ffffff"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nensibatra1122&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=D6249F&text_color=ffffff"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nensibatra1122&theme=redical&bg_color=0D0D0D&color=D6249F&line=8A2BE2&point=ffffff&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nensibatra1122&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=EC4899&icon_color=7C3AED&text_color=ffffff"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nensibatra1122&theme=radical&hide_border=true&background=0D0D0D&stroke=EC4899&ring=7C3AED&fire=EC4899&currStreakLabel=ffffff"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:D6249F&height=3&width=100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
-> 💡 **Setup note:** the snake animation needs a one-time GitHub Action in this repo to generate the SVG daily. Ask me and I'll walk you through adding the workflow file.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:D6249F&height=3&width=100%"/>
-
-## 📫 Let's Connect
+## 📬 Contact
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+Karachi, Pakistan &nbsp;|&nbsp; +92 318 3618419 &nbsp;|&nbsp; nensibatra1122@gmail.com
+
+<a href="https://www.linkedin.com/in/engr-nensi-batra-3851/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
-<br/><br/>
-
-<i>"Leveraging advanced automation, intelligent algorithms, and scalable software systems to solve complex industrial and real-world operational challenges."</i>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6249F,50:6A0DAD,100:0D0D0D&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:0D0D0D&height=120&section=footer"/>
