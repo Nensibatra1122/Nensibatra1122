@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0F,50:1A1A2E,100:0D0D0F&section=header&text=Nensi%20Batra&fontSize=50&fontColor=EC4899&animation=fadeIn&fontAlignY=38&desc=Builds%20intelligent%20systems.&descAlignY=58&descSize=20&descColor=8B5CF6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D0D0F&section=header&text=Nensi%20Batra&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Builds%20intelligent%20systems.&descAlignY=68&descSize=20&descColor=EC4899" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=EC4899&background=0D0D0FFF&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Computer+Vision+Specialist;Data+Automation+Specialist;Software+Operations+Expert" alt="Typing SVG"/>
 
@@ -206,6 +206,6 @@ Open to full-stack, AI/ML, and management trainee opportunities — Karachi & re
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D0D0F,50:1A1A2E,100:0D0D0F&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0D0D0F&section=footer" width="100%"/>
 
 </div>
