@@ -19,7 +19,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
 
-          # --- Theme: match README's dark + violet palette ---
+          # --- Theme: match README's dark + blue accent palette ---
           config_timezone: Asia/Karachi
           config_display: large
           config_base_color: 3B82F6
