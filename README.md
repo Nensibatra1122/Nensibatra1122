@@ -2,6 +2,8 @@
 
 <img src="assets/hero.png" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=EC4899&background=0D0D0FFF&center=true&vCenter=true&width=900&height=60&lines=AI+%2F+ML+Engineer;Computer+Vision;Data+Automation;Full-Stack+Development" width="100%" alt="Typing SVG"/>
+
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/engr-nensi-batra-3851/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -33,6 +35,10 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nensibatra1122&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0F&title_color=EC4899&icon_color=8B5CF6&text_color=ffffff"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nensibatra1122&theme=radical&hide_border=true&background=0D0D0F&stroke=EC4899&ring=8B5CF6&fire=EC4899&currStreakLabel=ffffff"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Nensibatra1122/Nensibatra1122/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 
 <br/><br/>
 
