@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=111111&text=Nensi%20Batra&fontColor=00FF66&fontSize=42&fontAlignY=40&desc=Builds%20intelligent%20systems.&descAlignY=62&descColor=888888" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=090d16&text=Nensi%20Batra&fontColor=38BDF8&fontSize=42&fontAlignY=40&desc=Builds%20intelligent%20systems.&descAlignY=62&descColor=94A3B8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=00FF66&background=00000000&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Computer+Vision+Specialist;Data+Automation+Specialist;Software+Operations+Expert" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=38BDF8&background=00000000&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Computer+Vision+Specialist;Data+Automation+Specialist;Software+Operations+Expert" alt="Typing SVG"/>
 
 <sub>🟢 Available for new opportunities · Karachi, Pakistan &nbsp;|&nbsp; Graduate Trainee Engineer @ Utopia Industries</sub>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FF66"/></a>
-<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=00FF66"/></a>
-<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF66"/></a>
-<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=00FF66"/></a>
+<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-090d16?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-090d16?style=for-the-badge&logo=gmail&logoColor=38BDF8"/></a>
+<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
+<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-090d16?style=for-the-badge&logo=netlify&logoColor=38BDF8"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nensibatra1122&label=Profile+Views&color=111111&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=nensibatra1122&label=Profile+Views&color=090d16&style=for-the-badge" alt="profile views"/>
 &nbsp;
-<a href="https://github.com/Nensibatra1122?tab=followers"><img src="https://img.shields.io/github/followers/Nensibatra1122?label=Followers&style=for-the-badge&color=111111&labelColor=111111"/></a>
+<a href="https://github.com/Nensibatra1122?tab=followers"><img src="https://img.shields.io/github/followers/Nensibatra1122?label=Followers&style=for-the-badge&color=090d16&labelColor=090d16"/></a>
 
 </div>
 
@@ -112,9 +112,9 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 **Security & ERP**
 <br/><br/>
-![Spring Security](https://img.shields.io/badge/Spring_Security-111111?style=flat-square&logo=springsecurity&logoColor=00FF66)
-![RBAC](https://img.shields.io/badge/RBAC-111111?style=flat-square&logo=shieldsdotio&logoColor=00FF66)
-![Odoo](https://img.shields.io/badge/Odoo-111111?style=flat-square&logo=odoo&logoColor=00FF66)
+![Spring Security](https://img.shields.io/badge/Spring_Security-090d16?style=flat-square&logo=springsecurity&logoColor=38BDF8)
+![RBAC](https://img.shields.io/badge/RBAC-090d16?style=flat-square&logo=shieldsdotio&logoColor=38BDF8)
+![Odoo](https://img.shields.io/badge/Odoo-090d16?style=flat-square&logo=odoo&logoColor=38BDF8)
 
 </td>
 </tr>
@@ -123,9 +123,9 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 **Data & Automation**
 <br/><br/>
-![Power BI](https://img.shields.io/badge/Power_BI-111111?style=flat-square&logo=powerbi&logoColor=00FF66)
-![n8n](https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=00FF66)
-![Make](https://img.shields.io/badge/Make.com-111111?style=flat-square&logo=make&logoColor=00FF66)
+![Power BI](https://img.shields.io/badge/Power_BI-090d16?style=flat-square&logo=powerbi&logoColor=38BDF8)
+![n8n](https://img.shields.io/badge/n8n-090d16?style=flat-square&logo=n8n&logoColor=38BDF8)
+![Make](https://img.shields.io/badge/Make.com-090d16?style=flat-square&logo=make&logoColor=38BDF8)
 
 </td>
 <td valign="top">
@@ -145,12 +145,12 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔐 **QR Security & RBAC Standardization** | Enforced system-wide RBAC and replaced legacy, file-system-dependent QR generation with secure, in-memory Base64 encoding across 12+ enterprise PDF modules. | ![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=00FF66) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=00FF66) ![Spring Security](https://img.shields.io/badge/Spring_Security-111111?style=flat-square&logo=springsecurity&logoColor=00FF66) |
-| 📦 **Enterprise Inventory Pro System** | Web-based enterprise inventory platform with role-based access, automated audit logging, and real-time inventory movement tracking. | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=00FF66) ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=00FF66) ![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=00FF66) |
-| 🏢 **Incubation & Startup Management Platform** | Full-stack ecosystem platform with automated CRUD operations, audit logs, and cloud infrastructure integration. | ![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=00FF66) ![Spring](https://img.shields.io/badge/Spring-111111?style=flat-square&logo=spring&logoColor=00FF66) ![Cloud](https://img.shields.io/badge/Cloud-111111?style=flat-square&logoColor=00FF66) |
-| ⚙️ **Odoo ERP Customization** | Customized Odoo ERP models and modules with Python — spanning technical (model layer) and functional (business process) configuration. | ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00FF66) ![Odoo](https://img.shields.io/badge/Odoo-111111?style=flat-square&logo=odoo&logoColor=00FF66) |
-| 🤖 **CLAIR — Autonomous Cleaning AI Robot** | Edge-computing autonomous robot using real-time computer vision for spatial mapping, navigation, and obstacle avoidance. | ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00FF66) ![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv&logoColor=00FF66) ![ESP32](https://img.shields.io/badge/ESP32-111111?style=flat-square&logo=espressif&logoColor=00FF66) |
-| 🌸 **Flower Image Classification System** | End-to-end ML pipeline with rigorous data preprocessing, model training, testing, and validation for multi-class image classification. | ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00FF66) ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=00FF66) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square&logo=scikit-learn&logoColor=00FF66) |
+| 🔐 **QR Security & RBAC Standardization** | Enforced system-wide RBAC and replaced legacy, file-system-dependent QR generation with secure, in-memory Base64 encoding across 12+ enterprise PDF modules. | ![Java](https://img.shields.io/badge/Java-090d16?style=flat-square&logo=openjdk&logoColor=38BDF8) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-090d16?style=flat-square&logo=springboot&logoColor=38BDF8) ![Spring Security](https://img.shields.io/badge/Spring_Security-090d16?style=flat-square&logo=springsecurity&logoColor=38BDF8) |
+| 📦 **Enterprise Inventory Pro System** | Web-based enterprise inventory platform with role-based access, automated audit logging, and real-time inventory movement tracking. | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-090d16?style=flat-square&logo=springboot&logoColor=38BDF8) ![React](https://img.shields.io/badge/React-090d16?style=flat-square&logo=react&logoColor=38BDF8) ![MySQL](https://img.shields.io/badge/MySQL-090d16?style=flat-square&logo=mysql&logoColor=38BDF8) |
+| 🏢 **Incubation & Startup Management Platform** | Full-stack ecosystem platform with automated CRUD operations, audit logs, and cloud infrastructure integration. | ![Java](https://img.shields.io/badge/Java-090d16?style=flat-square&logo=openjdk&logoColor=38BDF8) ![Spring](https://img.shields.io/badge/Spring-090d16?style=flat-square&logo=spring&logoColor=38BDF8) ![Cloud](https://img.shields.io/badge/Cloud-090d16?style=flat-square&logoColor=38BDF8) |
+| ⚙️ **Odoo ERP Customization** | Customized Odoo ERP models and modules with Python — spanning technical (model layer) and functional (business process) configuration. | ![Python](https://img.shields.io/badge/Python-090d16?style=flat-square&logo=python&logoColor=38BDF8) ![Odoo](https://img.shields.io/badge/Odoo-090d16?style=flat-square&logo=odoo&logoColor=38BDF8) |
+| 🤖 **CLAIR — Autonomous Cleaning AI Robot** | Edge-computing autonomous robot using real-time computer vision for spatial mapping, navigation, and obstacle avoidance. | ![Python](https://img.shields.io/badge/Python-090d16?style=flat-square&logo=python&logoColor=38BDF8) ![OpenCV](https://img.shields.io/badge/OpenCV-090d16?style=flat-square&logo=opencv&logoColor=38BDF8) ![ESP32](https://img.shields.io/badge/ESP32-090d16?style=flat-square&logo=espressif&logoColor=38BDF8) |
+| 🌸 **Flower Image Classification System** | End-to-end ML pipeline with rigorous data preprocessing, model training, testing, and validation for multi-class image classification. | ![Python](https://img.shields.io/badge/Python-090d16?style=flat-square&logo=python&logoColor=38BDF8) ![TensorFlow](https://img.shields.io/badge/TensorFlow-090d16?style=flat-square&logo=tensorflow&logoColor=38BDF8) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-090d16?style=flat-square&logo=scikit-learn&logoColor=38BDF8) |
 
 <br/>
 
@@ -158,12 +158,12 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 | Repo | Description | Language |
 |---|---|---|
-| [`DATA-SCIENCE`](https://github.com/Nensibatra1122/DATA-SCIENCE) | Data science notebooks & experiments | ![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=flat-square&logo=jupyter&logoColor=00FF66) |
-| [`CodSoft`](https://github.com/Nensibatra1122/CodSoft) | Web development internship tasks | ![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=00FF66) |
-| [`landingpage-codsoft`](https://github.com/Nensibatra1122/landingpage-codsoft) | Landing page built during web internship | ![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=00FF66) |
-| [`Calculator`](https://github.com/Nensibatra1122/Calculator) | JavaScript calculator app | ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=00FF66) |
-| [`coursera-test`](https://github.com/Nensibatra1122/coursera-test) | Coursera test repository | ![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=00FF66) |
-| [`repo`](https://github.com/Nensibatra1122/repo) | General-purpose repository | ![Repo](https://img.shields.io/badge/Repository-111111?style=flat-square&logo=github&logoColor=00FF66) |
+| [`DATA-SCIENCE`](https://github.com/Nensibatra1122/DATA-SCIENCE) | Data science notebooks & experiments | ![Jupyter](https://img.shields.io/badge/Jupyter-090d16?style=flat-square&logo=jupyter&logoColor=38BDF8) |
+| [`CodSoft`](https://github.com/Nensibatra1122/CodSoft) | Web development internship tasks | ![CSS](https://img.shields.io/badge/CSS-090d16?style=flat-square&logo=css3&logoColor=38BDF8) |
+| [`landingpage-codsoft`](https://github.com/Nensibatra1122/landingpage-codsoft) | Landing page built during web internship | ![HTML](https://img.shields.io/badge/HTML-090d16?style=flat-square&logo=html5&logoColor=38BDF8) |
+| [`Calculator`](https://github.com/Nensibatra1122/Calculator) | JavaScript calculator app | ![JavaScript](https://img.shields.io/badge/JavaScript-090d16?style=flat-square&logo=javascript&logoColor=38BDF8) |
+| [`coursera-test`](https://github.com/Nensibatra1122/coursera-test) | Coursera test repository | ![CSS](https://img.shields.io/badge/CSS-090d16?style=flat-square&logo=css3&logoColor=38BDF8) |
+| [`repo`](https://github.com/Nensibatra1122/repo) | General-purpose repository | ![Repo](https://img.shields.io/badge/Repository-090d16?style=flat-square&logo=github&logoColor=38BDF8) |
 
 <br/>
 
@@ -171,12 +171,12 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 <div align="center">
 
-<img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=Nensibatra1122&show_icons=true&count_private=true&hide_border=true&bg_color=111111&title_color=00FF66&icon_color=00FF66&text_color=AAAAAA&border_radius=10" />
-<img height="170" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nensibatra1122&hide_border=true&background=111111&stroke=111111&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=AAAAAA&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border_radius=10" />
+<img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=Nensibatra1122&show_icons=true&count_private=true&hide_border=true&bg_color=090d16&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=10" />
+<img height="170" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nensibatra1122&hide_border=true&background=090d16&stroke=090d16&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=ffffff&sideNums=ffffff&dates=475569&border_radius=10" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensibatra1122&layout=compact&hide_border=true&bg_color=111111&title_color=00FF66&text_color=AAAAAA&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensibatra1122&layout=compact&hide_border=true&bg_color=090d16&title_color=38BDF8&text_color=94A3B8&border_radius=10" />
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Nensibatra1122&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 <br/><br/>
@@ -197,10 +197,10 @@ Open to full-stack, AI/ML, and management trainee opportunities — Karachi & re
 
 <div align="center">
 
-<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/nensibatra1122@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=00FF66"/></a>
-<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FF66"/></a>
-<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FF66"/></a>
-<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=00FF66"/></a>
+<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/nensibatra1122@gmail.com-090d16?style=for-the-badge&logo=gmail&logoColor=38BDF8"/></a>
+<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-090d16?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
+<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
+<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-090d16?style=for-the-badge&logo=netlify&logoColor=38BDF8"/></a>
 
 <br/><br/>
 
@@ -208,4 +208,4 @@ Open to full-stack, AI/ML, and management trainee opportunities — Karachi & re
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=111111&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=090d16&section=footer" width="100%"/>
