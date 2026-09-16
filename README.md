@@ -23,9 +23,13 @@
 
 <br/>
 
-## 👋 About Me
+## 👋 Who I Am
 
-Computer Systems Engineer from Karachi, Pakistan crafting production-ready AI, computer vision, and full-stack solutions — currently architecting secure, automated systems as a **Graduate Trainee Engineer at Utopia Industries**.
+I'm a **Computer Systems Engineering** graduate from **NED University of Engineering & Technology** (Class of 2025), currently working as a **Graduate Trainee Engineer at Utopia Industries** under the Pakistan Engineering Council's Graduate Engineer Trainee program.
+
+My work spans **full-stack development**, **computer vision**, **predictive machine learning**, and enforcing **enterprise-grade security** across production systems — from architecting React + Spring Boot platforms to standardizing role-based access control across a dozen PDF generation modules.
+
+Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning robot — as my final year project, combining Python, OpenCV, and microcontrollers for real-time navigation.
 
 <div align="center">
 
