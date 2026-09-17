@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Nensi Batra — Software Engineer" width="100%"/>
+<img src="./assets/banner.svg" alt="Nensi Batra — Software Engineer" width="100%"/>
 
 <br/>
 
@@ -110,6 +110,6 @@ Trained and evaluated predictive ML models for concrete strength prediction.
 
 <br/><br/>
 
-<img src="./footer.svg" alt="" width="100%"/>
+<img src="./assets/footer.svg" alt="" width="100%"/>
 
 </div>
