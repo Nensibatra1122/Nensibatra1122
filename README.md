@@ -84,8 +84,15 @@ Trained and evaluated predictive ML models for concrete strength prediction.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nensibatra1122&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0B1120" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensibatra1122&layout=compact&hide_border=true&theme=tokyonight&title_color=38BDF8&text_color=94A3B8&bg_color=0B1120" width="48%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nensibatra1122/Nensibatra1122/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nensibatra1122/Nensibatra1122/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Nensibatra1122/Nensibatra1122/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Nensibatra1122?style=flat-square&color=0F172A&labelColor=0F172A&logoColor=38BDF8&label=Followers" />
 
 </div>
 
