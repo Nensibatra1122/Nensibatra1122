@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0a0612&text=Nensi%20Batra&fontColor=c084fc&fontSize=42&fontAlignY=40&desc=Computer%20Systems%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=62&descColor=94a3b8" alt="Nensi Batra Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0a0612&text=Nensi%20Batra&fontColor=c084fc&fontSize=42&fontAlignY=40&desc=builds%20intelligent%20systems.&descAlignY=62&descColor=94a3b8" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=c084fc&background=00000000&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Computer+Vision+Specialist;Data+Automation+Specialist;Software+Operations+Expert" alt="Typing SVG"/>
+
+<sub>🟢 AVAILABLE FOR NEW OPPORTUNITIES · Karachi, Pakistan</sub>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-0a0612?style=for-the-badge&logo=linkedin&logoColor=c084fc"/></a>
+<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0612?style=for-the-badge&logo=gmail&logoColor=c084fc"/></a>
+<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-0a0612?style=for-the-badge&logo=github&logoColor=c084fc"/></a>
+<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0a0612?style=for-the-badge&logo=netlify&logoColor=c084fc"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=nensibatra1122&label=Profile+Views&color=0a0612&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<a href="https://github.com/Nensibatra1122?tab=followers"><img src="https://img.shields.io/github/followers/Nensibatra1122?label=Followers&style=for-the-badge&color=0a0612&labelColor=0a0612"/></a>
 
 </div>
-
-<br/>
-
-<table align="center" border="0">
-<tr>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nensibatra1122&show_icons=true&theme=synthwave&hide_border=true&title_color=c084fc&icon_color=c084fc&bg_color=0a0612" alt="Nensi Batra Card" width="100%"/>
-
-</td>
-<td width="65%" align="center" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=C084FC&background=0A0612&center=false&vCenter=true&width=550&height=220&lines=echo+%22Hello%2C+World!+I%27m+Nensi+Batra%22;Graduated+from+NED+University+%282025%29;Graduate+Trainee+Engineer+@+Utopia;Building+AI%2FML+%26+Full-Stack+Systems;Specialized+in+Computer+Vision+%26+RBAC;Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="About Me Terminal" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -191,33 +191,20 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 <br/>
 
-## 📬 Let's Connect
+## 📬 Let's Build Something Intelligent
 
-<p align="center">
-  <a href="mailto:nensibatra1122@gmail.com" title="Email">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="46" height="46" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nensi-batra-385115251/" title="LinkedIn">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="46" height="46" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Nensibatra1122" title="GitHub">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="46" height="46" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/" title="Portfolio">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="46" height="46" alt="Portfolio"/>
-  </a>
-</p>
+Open to full-stack, AI/ML, and management trainee opportunities — Karachi & remote.
 
-<br/>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Nensibatra1122&color=0a0612&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="mailto:nensibatra1122@gmail.com"><img src="https://img.shields.io/badge/nensibatra1122@gmail.com-0a0612?style=for-the-badge&logo=gmail&logoColor=c084fc"/></a>
+<a href="https://www.linkedin.com/in/nensi-batra-385115251/"><img src="https://img.shields.io/badge/LinkedIn-0a0612?style=for-the-badge&logo=linkedin&logoColor=c084fc"/></a>
+<a href="https://github.com/Nensibatra1122"><img src="https://img.shields.io/badge/GitHub-0a0612?style=for-the-badge&logo=github&logoColor=c084fc"/></a>
+<a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0a0612?style=for-the-badge&logo=netlify&logoColor=c084fc"/></a>
 
 <br/><br/>
 
-*🤖 Building intelligent systems, line by line.* 💜
+<sub>Designed & built by <b>Nensi Batra</b> · Karachi, Pakistan · © 2026</sub>
 
 </div>
 
