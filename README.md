@@ -171,4 +171,54 @@ Outside client work, I built **CLAIR** — an autonomous edge-computing cleaning
 
 <div align="center">
 
-<img height="170" width="49%" src="
+<img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=Nensibatra1122&show_icons=true&count_private=true&hide_border=true&bg_color=0a0612&title_color=c084fc&icon_color=c084fc&text_color=94a3b8&border_radius=10" />
+<img height="170" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nensibatra1122&hide_border=true&background=0a0612&stroke=0a0612&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=475569&border_radius=10" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensibatra1122&layout=compact&hide_border=true&bg_color=0a0612&title_color=c084fc&text_color=94a3b8&border_radius=10" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Nensibatra1122&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nensibatra1122/Nensibatra1122/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nensibatra1122/Nensibatra1122/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Nensibatra1122/Nensibatra1122/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:nensibatra1122@gmail.com" title="Email">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="46" height="46" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nensi-batra-385115251/" title="LinkedIn">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="46" height="46" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Nensibatra1122" title="GitHub">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="46" height="46" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://agent-6a439e0564e6cc29a7a59--zippy-concha-5311cb.netlify.app/" title="Portfolio">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="46" height="46" alt="Portfolio"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Nensibatra1122&color=0a0612&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*🤖 Building intelligent systems, line by line.* 💜
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0a0612&section=footer" width="100%"/>
