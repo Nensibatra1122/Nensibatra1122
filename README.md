@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=030712&text=NENSI%20BATRA&fontColor=38BDF8&fontSize=38&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Systems&descAlignY=65&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=030712&text=NENSI%20BATRA&fontColor=38BDF8&fontSize=36&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Systems&descAlignY=65&descColor=94A3B8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=38BDF8&background=03071200&center=true&vCenter=true&width=850&height=45&lines=Building+Scalable+Full-Stack+Architectures;AI+%2F+ML+Pipelines+%26+Computer+Vision;Enforcing+Enterprise-Grade+Security+%26+RBAC;Data+Automation+%26+Backend+Optimization" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&duration=2500&pause=1000&color=38BDF8&background=03071200&center=true&vCenter=true&width=800&height=40&lines=Building+Scalable+Full-Stack+Architectures;AI+%2F+ML+Pipelines+%26+Computer+Vision;Enforcing+Enterprise-Grade+Security+%26+RBAC;Data+Automation+%26+Backend+Optimization" alt="Typing SVG"/>
 
 <br/>
 
@@ -158,13 +158,13 @@ My work spans **full-stack development**, **computer vision**, **predictive mach
 
 <div align="center">
 
-<img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=Nensibatra1122&show_icons=true&count_private=true&hide_border=true&bg_color=030712&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=10" />
-<img height="170" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nensibatra1122&hide_border=true&background=030712&stroke=030712&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=ffffff&sideNums=ffffff&dates=475569&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nensibatra1122&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nensibatra1122&hide_border=true&theme=tokyonight" width="48%" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensibatra1122&layout=compact&hide_border=true&bg_color=030712&title_color=38BDF8&text_color=94A3B8&border_radius=10" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Nensibatra1122&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nensibatra1122&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nensibatra1122&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="48%" />
 
 <br/><br/>
 
